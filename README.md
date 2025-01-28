@@ -3,8 +3,6 @@
     <h1>✨Awesome Love Code✨<br>❤️表白代码收藏馆❤️</h1> 
 </div>
 
-> 部分代码源自于互联网，侵删！
-
 # Web
 
 <table align="center">
@@ -250,10 +248,6 @@
     </tr>
 </table>
 
->  032 源自此仓库：https://github.com/fromann/heart  作者：fromann
-> 
->  034 源自此仓库：https://github.com/Kaiser-DMr/-3D  作者：Kaiser-DMr
-
 # Python
 
 <table align="center">
@@ -321,6 +315,8 @@
     </td>
     </tr>
 </table>
+
+
 
 # MatLab
 
@@ -391,8 +387,6 @@
     </tr>
 </table>
 
-> 007--009  原文链接：https://zhuanlan.zhihu.com/p/411819722  作者：slandarer
-
 # C/C++
 
 <table >
@@ -439,8 +433,6 @@
     </td>
     </tr>
 </table>
-
-> 004 原作者 https://www.bilibili.com/video/BV13P4y1R7DP
 
 # Vbs
 
